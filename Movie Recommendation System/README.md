@@ -24,12 +24,8 @@ streamlit run app.py
 ```
 
 ## Screenshots
-![Screenshot 1](https://github.com/Bhavik1603/Movie-and-Book-Recommendation-System/blob/main/Movie%20Recommendation%20System/Screenshots/screenshot%20(2).png) <br>
-
-![Screenshot 2](https://github.com/Bhavik1603/Movie-and-Book-Recommendation-System/blob/main/Movie%20Recommendation%20System/Screenshots/screenshot%20(3).png) <br>
-
-![Screenshot 3](https://github.com/Bhavik1603/Movie-and-Book-Recommendation-System/blob/main/Movie%20Recommendation%20System/Screenshots/screenshot%20(4).png) <br>
-
-![Screenshot 4](https://github.com/Bhavik1603/Movie-and-Book-Recommendation-System/blob/main/Movie%20Recommendation%20System/Screenshots/screenshot%20(5).png) <br>
-
-![Screenshot 5](https://github.com/Bhavik1603/Movie-and-Book-Recommendation-System/blob/main/Movie%20Recommendation%20System/Screenshots/screenshot%20(1).png) <br>
+![Screenshot 1](https://github.com/Bhavik1603/Movie-and-Book-Recommendation-System/blob/main/Movie%20Recommendation%20System/Screenshots/screenshot%20(2).png) 
+![Screenshot 2](https://github.com/Bhavik1603/Movie-and-Book-Recommendation-System/blob/main/Movie%20Recommendation%20System/Screenshots/screenshot%20(3).png) 
+![Screenshot 3](https://github.com/Bhavik1603/Movie-and-Book-Recommendation-System/blob/main/Movie%20Recommendation%20System/Screenshots/screenshot%20(4).png) 
+![Screenshot 4](https://github.com/Bhavik1603/Movie-and-Book-Recommendation-System/blob/main/Movie%20Recommendation%20System/Screenshots/screenshot%20(5).png) 
+![Screenshot 5](https://github.com/Bhavik1603/Movie-and-Book-Recommendation-System/blob/main/Movie%20Recommendation%20System/Screenshots/screenshot%20(1).png) 
